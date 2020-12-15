@@ -81,7 +81,7 @@ text-decoration: underline;
   color: #faf8f8;
 }
 
-@media screen and (min-width: 500px) {
+@media screen and (min-width: 100px) {
 
 /*mobil index*/
 
